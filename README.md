@@ -1,16 +1,13 @@
-## Hi there 👋
+# Akhand Veer Garg
 
-<!--
-**Avg2006/Avg2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aerospace Engineering @ IIT Madras ('28) · Head, Aero Club IIT Madras · Team Anveshak
 
-Here are some ideas to get you started:
+I build autonomous drones and robots, from flight-controller firmware up to perception and autonomy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Now:** leading **Project Micas**, a low-cost autonomous drone platform with our own flight stack and hardware
+- **Inter IIT Tech Meet 14.0 – Bronze:** GPS-free indoor autonomy on a nano-drone (Drona Aviation problem statement)
+- **Team Anveshak:** International Rover Challenge 2026 – 3rd overall, 1st in the autonomy mission (RADO)
+
+**Work with:** C/C++ · Python · ROS 2 · PX4 / ArduPilot · NVIDIA Isaac Sim · Gazebo · Embedded firmware · PCB design · Fusion 360
+
+[LinkedIn](https://www.linkedin.com/in/akhandveergarg)
